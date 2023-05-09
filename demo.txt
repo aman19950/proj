@@ -1,0 +1,4 @@
+this is a class of file handling
+welcome to this class
+Introduction to file handling
+this is my new content
